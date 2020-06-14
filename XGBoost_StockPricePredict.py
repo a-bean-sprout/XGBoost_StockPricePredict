@@ -3,7 +3,7 @@
 # @Time    : 2019-11-27 12:09
 # @Author  : YuanBo
 # @Site    : 
-# @File    : Xgboost_v01.py
+# @File    : XGBoost_StockPricePredict.py
 # @Software: PyCharm Python3.7
 
 import math
